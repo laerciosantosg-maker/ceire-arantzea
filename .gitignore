@@ -28,6 +28,13 @@ Thumbs.db
 .claude/settings.local.json
 .aiox/install-log.txt
 
+# Windows metadata
+*.Identifier
+*:Zone.Identifier
+
+# Reference material (local only)
+ref-ceire/
+
 # AIOX generated files
 .aiox/environment-report.yaml
 .aiox/environment-report.json
